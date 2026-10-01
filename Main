@@ -31,7 +31,7 @@ local function MHit()
 			if (hrp.Position - ballPos).Magnitude <= ballRadius then
 				if not hitModels[model] then
 					hitModels[model] = true
-end
+            end
 local rA = hrp
 local effectPart = Instance.new("Part")
   
