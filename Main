@@ -325,6 +325,7 @@ effectPart.CFrame = rA.CFrame * CFrame.new(0,0,0)
 task.delay(1, function()
 effectPart:Destroy()
 end)
+                    end
 				end
 			end
 		end
