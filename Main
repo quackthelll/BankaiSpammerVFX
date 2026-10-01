@@ -32,7 +32,6 @@ local function MHit()
 				if not hitModels[model] then
 					hitModels[model] = true
 
-					print("Detected:", model.Name)
 
 local rA = hrp
 local effectPart = Instance.new("Part")
