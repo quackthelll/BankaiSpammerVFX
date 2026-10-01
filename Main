@@ -333,7 +333,6 @@ end
 
 --Blood Slice
 function MBl()
-	task.wait(0.15)
 
 	local player = game.Players.LocalPlayer
 	local character = player.Character or player.CharacterAdded:Wait()
