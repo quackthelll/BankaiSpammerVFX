@@ -1,4 +1,4 @@
-local function MHit()
+function MHit()
 	task.wait(0.15)
 
 	local player = game.Players.LocalPlayer
