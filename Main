@@ -869,7 +869,7 @@ local effectPart = Instance.new("Part")
  
  
  
-    task.delay(maxLifetime * 15,  function()
+    task.delay(maxLifetime * 10,  function()
  
  
  
